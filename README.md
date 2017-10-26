@@ -1,5 +1,12 @@
 # flower chandelier
 
+![assembled](https://static1.squarespace.com/static/56be5ec27da24fee23cf829d/t/59681aad8419c27b43926f9f/1499994889415/?format=300w)
+
+![svg for laser cutting](https://static1.squarespace.com/static/56be5ec27da24fee23cf829d/t/596817396a4963666f083061/1499993938829/?format=300w)
+
+![3d printed mount](https://static1.squarespace.com/static/56be5ec27da24fee23cf829d/t/5968181cb8a79b7430ad1ec2/1499994155518/?format=300w)
+
+
 ## Instructions
 
 1. Laser cut the tulip pattern. You can scale it as necessary for different sizes or insets.
