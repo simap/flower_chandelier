@@ -6,7 +6,7 @@
 
 ![3d printed mount](https://static1.squarespace.com/static/56be5ec27da24fee23cf829d/t/5968181cb8a79b7430ad1ec2/1499994155518/?format=300w)
 
-![mounting leds closeup](mounting leds.jpg)
+![mounting leds closeup](mounting_leds.jpg)
 
 
 ## Instructions
