@@ -16,6 +16,6 @@
 5. Cut and wire up some LED strips to fit, the printed mount should keep the LEDs snug against the edge.
 6. First counter-wind so that the LED wiring doesn't get wrapped up, then thread each segment together.
 
-If you're looking for an excelent LED controller pairing with this setup, check out [Pixelblaze](https://bhencke.com/pixelblaze)! 😀
+If you're looking for an excellent LED controller pairing with this setup, check out [Pixelblaze](https://bhencke.com/pixelblaze)! 😀
 
 You can check out my [assembled chandelier here](https://www.bhencke.com/blog/2017/7/13/laser-cut-led-flower-chandelier)
